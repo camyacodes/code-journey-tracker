@@ -1,1 +1,2 @@
-# code-journey-tracker
+# code-j| [LearningBehindTheScreens](https://github.com/camyacodes/code-journey-tracker/blob/main/LearningBehindTheScreens/README.md) | feat(navbar): add navigation menu and improve styling | 30min | 4/24/2025 | [path](https://github.com/camyacodes/code-journey-tracker/blob/main/LearningBehindTheScreens/4/24/2025/23%3A04%3A49-30.md) |
+ourney-tracker
